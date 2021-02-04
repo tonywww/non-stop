@@ -5,3 +5,6 @@ Modify from KillSaver.
 
 # From .au3 to .exe
 https://www.autoitscript.com/autoit3/docs/intro/compiler.htm
+
+# AutoIt Downloads
+https://www.autoitscript.com/site/autoit/downloads/
