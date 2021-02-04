@@ -4,11 +4,11 @@ An application that moves the mouse when idle to disable the screen saver.
 Modify from KillSaver.
 
 ## Related
-### From .au3 to .exe
+-### From .au3 to .exe
 https://www.autoitscript.com/autoit3/docs/intro/compiler.htm
-### AutoIt Downloads
+-### AutoIt Downloads
 https://www.autoitscript.com/site/autoit/downloads/
-### Are my AutoIt EXEs really infected?
+-### Are my AutoIt EXEs really infected?
 Copy and Pasted from https://www.autoitscript.com/forum/topic/34658-are-my-autoit-exes-really-infected/
 
 If you have been using AutoIt for any length of time you will know that it is a great, and powerful scripting language. As with all powerful languages there comes a downside. Virus creation by those that are malicious.
